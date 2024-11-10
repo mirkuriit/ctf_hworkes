@@ -13,8 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "12.png"
-              }
+                "file": "wireshark/12.png"
+              },
+              "icon": "lucide-image",
+              "title": "12"
             }
           },
           {
@@ -23,14 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "КАК я ctf решал.md",
+                "file": "wireshark/КАК я ctf решал.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "КАК я ctf решал"
+            }
+          },
+          {
+            "id": "73fb07e19d4dd9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sql_injection/Как я ctf решал.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как я ctf решал"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "КАК я ctf решал.md",
+                "file": "sql_injection/Как я ctf решал.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Как я ctf решал"
             }
           },
           {
@@ -113,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "КАК я ctf решал.md",
+                "file": "sql_injection/Как я ctf решал.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Как я ctf решал"
             }
           },
           {
@@ -127,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "КАК я ctf решал.md"
-              }
+                "file": "sql_injection/Как я ctf решал.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Как я ctf решал"
             }
           }
         ]
@@ -157,19 +189,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4749581fc7154dc2",
+  "active": "73fb07e19d4dd9e5",
   "lastOpenFiles": [
-    "13.png",
-    "12.png",
-    "11.png",
-    "10.png",
-    "9.png",
-    "8.png",
-    "7.png",
-    "6.png",
-    "5.png",
-    "4.png",
-    "3.png",
-    "КАК я ctf решал.md"
+    "wireshark/КАК я ctf решал.md",
+    "sql_injection/Как я ctf решал.md",
+    "sql_injection",
+    "Untitled/Untitled.md",
+    "wireshark/1.png",
+    "wireshark",
+    "wireshark/13.png",
+    "wireshark/12.png",
+    "wireshark/11.png",
+    "wireshark/10.png",
+    "wireshark/9.png",
+    "wireshark/8.png",
+    "wireshark/7.png",
+    "wireshark/6.png",
+    "wireshark/5.png"
   ]
 }
