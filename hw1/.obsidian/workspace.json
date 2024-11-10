@@ -189,14 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b290a10bde33e603",
+  "active": "73fb07e19d4dd9e5",
   "lastOpenFiles": [
-    "sql_injection/1.png",
     "wireshark/КАК я ctf решал.md",
     "sql_injection/Как я ctf решал.md",
+    "wireshark/1.png",
+    "sql_injection/1.png",
     "sql_injection",
     "Untitled/Untitled.md",
-    "wireshark/1.png",
     "wireshark",
     "wireshark/13.png",
     "wireshark/12.png",
@@ -205,7 +205,6 @@
     "wireshark/9.png",
     "wireshark/8.png",
     "wireshark/7.png",
-    "wireshark/6.png",
-    "wireshark/5.png"
+    "wireshark/6.png"
   ]
 }
