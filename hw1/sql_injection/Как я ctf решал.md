@@ -40,7 +40,7 @@ sqlmap -u https://sql.training.hackerdom.ru/5sdfkjsdk.php?text= --random-agent -
 ```
 ы
 ### 8 
-Дальше прям душно. 
+Дальше прям душно.  ![[1.png]] Вот пруфы, что дошел
 ```
 
 ```
